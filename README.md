@@ -46,8 +46,7 @@ LAB_1/
 ### 2. Клонування репозиторію
 
 ```bash
-git clone [посилання на ваш репозиторій]
-cd [назва папки проєкту]
+git clone https://github.com/yuliia-zinchenko/SQL_3rd_year
 ```
 
 ### 3. Налаштування Python середовища
