@@ -8,6 +8,7 @@
 *   **СУБД:** PostgreSQL
 *   **Бібліотеки Python:** `psycopg2-binary`, `python-dotenv`
 *   **Архітектурні патерни:** Repository, Unit of Work
+*   **Схема:** [diagram.io](https://dbdiagram.io/d/69061e0f6735e11170c751b7)
 
 ## Структура проєкту
 
